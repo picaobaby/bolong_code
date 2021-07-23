@@ -1,0 +1,30 @@
+{
+    "group_0": {
+        "id"        : "group_0",
+        "name"      : "Group 0 Name",
+        "desc"      : "Group 0 some description here",
+        "time_range": "6:00 - 7:00 AM",
+        "workouts"  : ["workout_0", "workout_1", "workout_3"]
+    },        
+    "group_1": {
+        "id"        : "group_1",
+        "name"      : "Group 1 Name",
+        "desc"      : "Group 1 some description here, looks like this works",
+        "time_range": "7:00 - 8:00 AM",
+        "workouts"  : ["workout_1", "workout_3"]
+    }, 
+    "group_2": {
+        "id"        : "group_2",
+        "name"      : "Group 2 Name",
+        "desc"      : "Group 2 some description here",
+        "time_range": "8:00 - 9:00 AM",
+        "workouts"  : ["workout_0", "workout_1", "workout_3"]
+    },        
+    "group_3": {
+        "id"        : "group_3",
+        "name"      : "Group 3 Name",
+        "desc"      : "Group 3 some description here, looks like this works",
+        "time_range": "9:00 - 10:00 AM",
+        "workouts"  : ["workout_1", "workout_3"]
+    }   
+}
